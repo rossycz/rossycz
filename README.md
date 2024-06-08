@@ -1,7 +1,7 @@
 #About me
 
 Hello, I'm Rossy
-- 💻🤓 I’m improving my skills in programming
+- 💻🤓 I’m improving my programming skills
 - 🌱 I’m currently learning Data Science and German
 - 👯 I’m looking to collaborate on any Python programming projects
 - 📫 How to reach me ada_hack611@womenintech.mx
